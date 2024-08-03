@@ -14,8 +14,8 @@ opt_in_rules: # some rules are only opt-in
   - sorted_imports
   
 included: # paths to include during linting. `--path` is ignored if present.
-  - Todotify
-  - TodotifyTests
+  - ysablios
+  - ysabliosTests
   
 excluded: # paths to ignore during linting. Takes precedence over `included`.
   - Pods
